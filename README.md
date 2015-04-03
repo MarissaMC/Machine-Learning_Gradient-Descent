@@ -22,5 +22,5 @@ There are 4 files which implement Gradient_Descent algorithm with different form
 
 Usage
 -----------------
-   Gradient_Descent(data,label);
+    Gradient_Descent(data,label);
 
